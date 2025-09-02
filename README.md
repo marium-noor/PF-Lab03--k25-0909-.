@@ -1,5 +1,5 @@
 # PF-Lab03 **K25-0909**
-My name is Marium Noor and _ i like to create interactive web and apps for the internet_.
+My name is Marium Noor and _i like to create interactive web and apps for the internet_.
 I am currently pursuing my **BSCS** from **FAST NUCES**.
 
 ---
@@ -14,4 +14,4 @@ I am currently pursuing my **BSCS** from **FAST NUCES**.
 ## The Different domains of Computer Science i have worked with
 - My majority of experience includes building websites and webapps with react and next
 - I also made REST API's using Node and Nestjs.
-- Currently i am learning AI automation and exploring the possibiities i holds!
+- Currently i am learning AI automation and exploring the possibilities it holds!
